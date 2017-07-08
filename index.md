@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## A importância da IU
 
-You can use the [editor on GitHub](https://github.com/brunomergh/InterfaceComUsuario/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A Interface com o Usuário é uma parte fundamental de um software; é a parte 
+do sistema visível para o usuário, através da qual, ele se comunica para realizar suas 
+tarefas. Pode se tornar uma fonte de motivação e até, dependendo de suas
+características, uma grande ferramenta para o usuário, ou então, se mal projetada, 
+pode se transformar em um ponto dec isivo na rejeição de um sistema. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As interfaces atuais têm como objetivo fornecer uma interação pessoa-
+computador o mais "amigável" possível. Dessa forma, ela deve ser fácil de ser usada 
+pelo usuário, fornecendo seqüências simples e consistentes de interação, mostrando 
+claramente as alternativas disponíveis a cada passo da interação sem confundir nem 
+deixar o usuário inseguro. Ela deve passar despercebida para que o usuário possa se 
+fixar somente no problema que deseja resolver utilizando o sistema.
+Visando tornar a interação com o usuário mais natural e menos hostil, as 
+interfaces passaram a ser constituídas, entre outros itens, por elementos gráficos, 
+onde imagens representando dados e tarefas disponíveis são manipuladas diretamente 
+pelo usuário. Na realidade, tais ítens não constituem os dados nem as tarefas; são 
+apenas seus signos, isto é tudo que possa ser assumido como um substituto
+significante de outra coisa qualquer .
 
-### Markdown
+Atualmente, os sistemas de software não são vistos apenas como
+processamento de dados. São encarados como mensagens complexas enviadas dos 
+projetistas para os usuários. Pesquisas recentes na área Interação Homem-
+Computador (HCI - Human Computer Interaction) conscientizaram os programadores 
+da necessidade de uma comunicação em interfaces nos dois sentidos, isto é, os 
+usuários não só enviam mensagens para os programas de aplicação, mas também 
+recebem e interpretam mensagens provenientes da ou através da aplicação. A HCI, 
+quando examinada sob o ponto de vista da comunicação, mostra que os sistemas 
+possuem dois papéis de comunicação inerentes: eles são enviadores e receptores de 
+mensagens e eles próprios constituem mensagens enviadas dos projetistas para os 
+usuários através do meio.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunomergh/InterfaceComUsuario/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Um dos principais objetivos no projeto de IUs é a obtenção de interfaces
+amigáveis , isto é, interfaces que o usuário se sinta confortável e encorajado de usar. 
+Quando alguns aspectos, como os fatores humanos e fatores do domínio (compreensão 
+do problema) são considerados, obtém-se um diálogo natural; se ignorados, o
+resultado é um sistema não amigável.
